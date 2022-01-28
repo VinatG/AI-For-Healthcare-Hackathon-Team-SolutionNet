@@ -1,0 +1,4 @@
+Cataract
+Glaucoma
+Myopia
+Normal

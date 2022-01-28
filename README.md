@@ -1,2 +1,1 @@
-# AI For Healthcare Hackathon Team SolutionNet
- 
+# AI_health_care_hackathon_Soln_Net
